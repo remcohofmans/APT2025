@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>maze1.png</file>
+        <file>maze2.png</file>
+        <file>maze3.png</file>
+        <file>enemy.png</file>
+        <file>healthpack.png</file>
+        <file>Penemy.png</file>
+        <file>Xenemy.png</file>
+        <file>overlay3.png</file>
+        <file>defeated.png</file>
+        <file>warrior_blue.png</file>
+        <file>dead.png</file>
+        <file>worldmapLVL2.png</file>
+        <file>worldmapLVL3.png</file>
+        <file>meat.png</file>
+        <file>worldmapLVL1.png</file>
+        <file>barrel_single.png</file>
+        <file>overlay2.png</file>
+        <file>overlay1.png</file>
+    </qresource>
+</RCC>
